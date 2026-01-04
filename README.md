@@ -10,8 +10,6 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/CipherSaber/FOSS-CHERUB?style=for-the-badge)](https://github.com/CipherSaber/FOSS-CHERUB/issues)
 
-[![GitHub license](https://img.shields.io/github/license/CipherSaber/FOSS-CHERUB?style=for-the-badge)](LICENSE)
-
 **An advanced, open-source vulnerability detection and security analysis platform.**
 
 </div>
@@ -42,7 +40,7 @@ A `sample.webm` video demonstrates core functionalities.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 **Web Application (Dashboard & API):**
-*   **Likely Frameworks**: Flask / Dash (for `dashboard.py`), potentially FastAPI / Flask (for `api/` and `backend/`).
+*   **Frameworks**: Nextjs.
 
 **Database:**
 
@@ -338,10 +336,6 @@ Refer to the "Quick Start" section for detailed setup instructions. We recommend
 Follow the "Development" and "Testing" sections for guidance on running scripts and tests.
 
 Please check for a `CONTRIBUTING.md` file in the repository for specific guidelines on submitting issues, pull requests, and coding standards.
-
-## 📄 License
-
-This project is licensed under an [Open-Source License](LICENSE) - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
