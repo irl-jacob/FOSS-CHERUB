@@ -194,6 +194,13 @@ If you prefer to run the components directly:
     # python foss_scanner.py
     # python api/main.py # Example, actual entry point may vary
     ```
+---
+## Docker images (Pull from Docker hub):
+[Application Container image ](https://hub.docker.com/r/jacpacd/mal-ai)
+[Database Container image ](https://hub.docker.com/r/jacpacd/postgres)
+---
+## Hugging face model repo:
+[Qwen2.5-Coder:7B finetuned](https://huggingface.co/jacpacd/Foss-Cherub-Vuln-Detector)
 
 ## 📁 Project Structure
 
