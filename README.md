@@ -1,17 +1,35 @@
-# FOSS-CHERUB
+<h1 align="center">
+FOSS-CHERUB
 
-<div align="center">
+ _Advanced LLM vulnerability scanner with AST_
 
-<!-- TODO: Add project logo -->
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20commit-today-blue?style=flat-square&logo=github" alt="last commit">
+  <img src="https://img.shields.io/badge/python-58.1%25-blue?style=flat-square&logo=python" alt="python">
+  <img src="https://img.shields.io/badge/languages-6-blue?style=flat-square" alt="languages">
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/CipherSaber/FOSS-CHERUB?style=for-the-badge)](https://github.com/CipherSaber/FOSS-CHERUB/stargazers)
+_Built with the tools and technologies:_
 
-[![GitHub forks](https://img.shields.io/github/forks/CipherSaber/FOSS-CHERUB?style=for-the-badge)](https://github.com/CipherSaber/FOSS-CHERUB/network)
-
-[![GitHub issues](https://img.shields.io/github/issues/CipherSaber/FOSS-CHERUB?style=for-the-badge)](https://github.com/CipherSaber/FOSS-CHERUB/issues)
-
-**An advanced, open-source vulnerability detection and security analysis platform.**
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="GNU Bash">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/XML-005F9E?style=flat-square&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic">
+</p>
 </div>
 
 ## 📖 Overview
@@ -42,23 +60,35 @@ https://github.com/user-attachments/assets/e47e007d-2e34-4a18-92a1-ef3fc02388aa
 
 ## 🛠️ Tech Stack
 
-**Core:**
+**Core & Data:**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
 
 **Web Application (Dashboard & API):**
-*   **Frameworks**: Nextjs.
+
+[![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 **Database:**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-**DevOps:**
+**DevOps & Tools:**
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
 [![Docker Compose](https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![XML](https://img.shields.io/badge/XML-005F9E?style=for-the-badge&logo=xml&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/XML)
 ## 🚀 Quick Start
 
 Follow these steps to get FOSS-CHERUB up and running on your local machine using Docker Compose.
