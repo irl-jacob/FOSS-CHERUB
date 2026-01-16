@@ -31,7 +31,7 @@ FOSS-CHERUB is a robust and extensible platform designed for comprehensive vulne
 ## 🖥️ Demo
 
 A `sample.webm` video demonstrates core functionalities.
-<!-- TODO: Add actual screenshots of the dashboard -->
+[Watch the sample video](https://github.com/CipherSaber/FOSS-CHERUB/raw/3a9a9ad1f40055ccfb74430eacef5c798a6148f4/sample.webm)
 
 ## 🛠️ Tech Stack
 
