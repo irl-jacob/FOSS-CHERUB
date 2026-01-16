@@ -33,6 +33,9 @@ FOSS-CHERUB is a robust and extensible platform designed for comprehensive vulne
 A `sample.webm` video demonstrates core functionalities.
 
 https://github.com/user-attachments/assets/e47e007d-2e34-4a18-92a1-ef3fc02388aa
+
+## Screenshots
+
 <img width="1810" height="940" alt="Screenshot from 2025-12-13 19-45-39" src="https://github.com/user-attachments/assets/4a0c8a5b-e263-49bc-b0c3-82396e7ff759" />
 <img width="1811" height="938" alt="Screenshot from 2025-12-13 18-39-36" src="https://github.com/user-attachments/assets/0458e013-d71c-40ab-8bdc-0344174f3ff0" />
 
